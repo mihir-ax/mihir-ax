@@ -23,17 +23,17 @@
 ---
 
 ## 📊 GitHub Stats
-![MAHI's GitHub stats](https://github-readme-stats.vercel.app/api?username=mihir-ax&show_icons=true&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=mihir-ax&show_icons=true&theme=radical" />
 
 ---
 
 ## 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=mihir-ax&theme=radical)
+<img src="https://streak-stats.demolab.com?user=mihir-ax&theme=radical" />
 
 ---
 
 ## 🌟 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mihir-ax&layout=compact&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihir-ax&layout=compact&theme=radical" />
 
 ---
 
