@@ -1,111 +1,176 @@
-<h1 align="center">Hi 👋, I'm Mahi</h1>
-<h3 align="center">Computer Science Engineering Student | Full Stack & AI Enthusiast</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hey+There!+I'm+MiHiR+SEN+%F0%9F%91%8B;Future+AI+Engineer+%F0%9F%A4%96;CS+Engineering+Student+%F0%9F%9A%80;Let's+Build+The+Future+Together!" alt="Typing SVG" />
+</div>
 
-<p align="center">
-  <i>Turning ideas into code, and code into impact 🚀</i>
-</p>
-
----
-
-## 🌸 About Me
-
-- 🎓 I'm a **Computer Science Engineering student**
-- 💻 Passionate about **Programming, Full Stack Development & AI**
-- 🧠 Strong interest in **DSA, System Thinking & Problem Solving**
-- 🤖 Exploring **Machine Learning, Deep Learning & Automation**
-- 🎮 I love **Gaming** and building tech around it
-- 🌱 Currently improving **Backend, AI models & scalable systems**
-- ✨ Goal: Build **real-world products**, not just assignments
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mihir-ax&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile views" />
+</div>
 
 ---
 
-## 🧠 Data Structures & Algorithms
+## 🚀 About Me
 
-- ✅ Solving DSA using **C++**
-- ✅ Strong grasp on:
-  - Arrays, Strings
-  - Linked List
-  - Stack & Queue
-  - Trees & Graphs
-  - Recursion & Backtracking
-  - Dynamic Programming
-- 🏆 Focus on **clean logic & optimized solutions**
+```python
+class MiHiR_SEN:
+    def __init__(self):
+        self.name = "MiHiR SEN"
+        self.username = "mihir-ax"
+        self.role = "CS Engineering Student"
+        self.future_goal = "High-Level AI Engineer 🤖"
+        self.passions = ["Coding", "AI", "Gaming", "Robotics"]
+        self.current_focus = ["DSA", "Python", "Web Dev", "AI/ML"]
+        self.location = "Jaipur, Rajasthan 🇮🇳"
+        
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build the future together 🚀")
+
+me = MiHiR_SEN()
+me.say_hi()
+```
+
+- 🎓 **Computer Science Engineering Student**
+- 💻 **Passionate Programmer** | Building skills in AI, Web Dev & Automation
+- 🎮 **Gamer at Heart** | Love exploring virtual worlds
+- 🤖 **Robotics Enthusiast** | Fascinated by Future Tech
+- 🌱 **Currently Learning**: DSA, Python, Web Development & AI/ML
+- 🔥 **Mission**: Become a top-tier Software/AI Engineer
+- 📍 **Based in**: Jaipur, Rajasthan, India
 
 ---
 
-## 💻 Tech Stack
+## 🛠️ Tech Stack
 
-### 🚀 Programming Languages
-- **C++** (DSA & Core Concepts)
-- **JavaScript**
-- **Python**
-- **SQL**
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🤖 AI/ML & Data Science
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ### 🌐 Web Development
-- **React.js**
-- **Next.js**
-- **Node.js**
-- **Express.js**
-- **MongoDB**
-- **REST APIs**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🤖 AI / ML / Deep Learning
-- **Python**
-- **PyTorch**
-- **TensorFlow**
-- NumPy, Pandas, Matplotlib
-- Neural Networks (Basics → Intermediate)
-
-### 🗄️ Databases
-- **MongoDB**
-- **MySQL**
-- Database Design & Queries
-
----
-
-## 🛠️ Tools & Technologies
-
-- Git & GitHub
-- VS Code
-- Postman
-- Linux (Basics)
-- Vercel
-- npm / yarn
-
----
-
-## 📌 What I Believe In
-
-- ✨ Writing **readable & maintainable code**
-- 🧠 Understanding **why**, not just **how**
-- 🚀 Learning by **building projects**
-- 💡 Improving every single day
+### 🛠️ Tools & Others
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://git-hub-stats-red.vercel.app/api?username=mihir-ax&show_icons=true&theme=radical&hide_border=true" />
-</p>
+<div align="center">
+  <img src="https://git-hub-stats-red.vercel.app/api?username=mihir-ax&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&rank_icon=github" alt="MiHiR's GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihir-ax&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&langs_count=8" alt="Top Languages" height="180"/>
+</div>
 
-<p align="center">
-  <img src="https://git-hub-stats-red.vercel.app/api/streak-stats?username=mihir-ax&theme=radical&hide_border=true" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mihir-ax&theme=radical&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=FF6B6B&currStreakLabel=A855F7" alt="GitHub Streak" />
+</div>
 
-<p align="center">
-  <img src="https://git-hub-stats-red.vercel.app/api/top-langs/?username=mihir-ax&layout=compact&theme=radical&hide_border=true" />
-</p>
-
----
-
-## 📫 Connect With Me
-
-- 💌 GitHub: **@mihir-ax**
-- 🌱 Always open to learning, collaboration & growth
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mihir-ax&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A855F7&line=A855F7&point=FF6B6B" alt="Contribution Graph" width="95%" />
+</div>
 
 ---
 
-<p align="center">
-  <b>✨ "Code. Learn. Build. Repeat." ✨</b>
-</p>
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mihir-ax&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 🎯 Current Focus
+
+```javascript
+const currentGoals = {
+    learning: ["Data Structures & Algorithms", "Machine Learning", "Web3", "System Design"],
+    building: ["AI Projects", "Full-Stack Applications", "Automation Tools"],
+    reading: ["Deep Learning Papers", "Tech Blogs", "AI Research"],
+    exploring: ["Robotics", "IoT", "Cloud Computing", "Blockchain"]
+};
+```
+
+---
+
+## 🔥 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/mihir-ax/REPO_NAME_1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mihir-ax&repo=REPO_NAME_1&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=FF6B6B" />
+  </a>
+  <a href="https://github.com/mihir-ax/REPO_NAME_2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mihir-ax&repo=REPO_NAME_2&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=FF6B6B" />
+  </a>
+</div>
+
+---
+
+## 🎮 When I'm Not Coding...
+
+- 🎮 Gaming (Strategy & RPGs)
+- 🤖 Exploring Robotics & IoT
+- 📚 Reading Tech Articles & Research Papers
+- 🎵 Listening to Music while coding
+- 🏏 Cricket enthusiast
+- 🌟 Contributing to Open Source
+
+---
+
+## 📈 Contribution Stats
+
+<div align="center">
+  <img src="https://git-hub-stats-red.vercel.app/api?username=mihir-ax&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&include_all_commits=true&count_private=true&custom_title=MiHiR's%20GitHub%20Stats" alt="Detailed Stats" />
+</div>
+
+---
+
+## 📫 Connect with Me
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](YOUR_TWITTER)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](YOUR_INSTAGRAM)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](YOUR_PORTFOLIO)
+
+</div>
+
+---
+
+## 💭 Random Dev Quote
+
+<div align="center">
+  
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!%20⭐%20Star%20some%20repos%20if%20you%20like%20them!&fontSize=20&fontColor=fff&animation=twinkling&fontAlignY=75" />
+</div>
+
+<div align="center">
+  
+### Show some ❤️ by starring some of the repositories!
+
+</div>
