@@ -15,10 +15,10 @@ class MiHiR_SEN:
     def __init__(self):
         self.name = "MiHiR SEN"
         self.role = "CS Engineering Student"
-        self.future_goal = "High-Level AI Engineer 🤖"
-        self.passions = ["Coding", "AI", "Gaming", "Robotics"]
-        self.current_focus = ["DSA", "Python", "Web Dev", "AI/ML"]
         self.location = "Jaipur, Rajasthan, India 🇮🇳"
+        self.future_goal = "High-Level AI Engineer 🤖"
+        self.passions = ["Coding", "AI/ML", "Robotics", "Gaming"]
+        self.current_focus = ["DSA", "Python", "Web Development", "AI/ML"]
         
     def say_hi(self):
         print("Thanks for dropping by! Let's build the future together 🚀")
@@ -27,18 +27,18 @@ me = MiHiR_SEN()
 me.say_hi()
 ```
 
-🎓 **Computer Science Engineering Student**  
-💻 **Passionate Programmer** | Building skills in AI, Web Dev & Automation  
-🎮 **Gamer at Heart** | Love exploring virtual worlds  
-🤖 **Robotics Enthusiast** | Fascinated by Future Tech  
-🌱 **Currently Learning**: DSA, Python, Web Development & AI  
-🔥 **Mission**: Become a top-tier Software/AI Engineer
+🎓 **Computer Science Engineering Student** passionate about building the future with AI  
+💻 **Developer** | Crafting solutions in AI, Web Dev & Automation  
+🤖 **AI/ML Enthusiast** | Fascinated by Machine Learning & Robotics  
+🎮 **Gamer** | Love exploring virtual worlds  
+🌱 **Currently Learning**: Data Structures & Algorithms, Machine Learning, Full-Stack Development  
+🔥 **Mission**: Become a top-tier AI Engineer shaping tomorrow's technology
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
+### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -60,7 +60,7 @@ me.say_hi()
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🛠️ Tools & Others
+### 🛠️ Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -94,38 +94,30 @@ me.say_hi()
 
 ---
 
-## 📈 Detailed Contribution Stats
-
-<div align="center">
-  <img src="https://git-hub-stats-red.vercel.app/api?username=mihir-ax&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_bold=true&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&card_width=495" alt="Detailed GitHub Stats"/>
-</div>
-
----
-
 ## 🎯 Current Focus
 
 ```javascript
 const currentGoals = {
-    learning: ["Data Structures & Algorithms", "Machine Learning", "Web3"],
-    building: ["AI Projects", "Full-Stack Applications", "Automation Tools"],
-    reading: ["Deep Learning Papers", "System Design", "Tech Blogs"],
-    exploring: ["Robotics", "IoT", "Cloud Computing"]
+    learning: ["Data Structures & Algorithms", "Deep Learning", "System Design"],
+    building: ["AI/ML Projects", "Full-Stack Web Apps", "Automation Tools"],
+    exploring: ["Robotics & IoT", "Cloud Computing", "Web3 Technologies"],
+    reading: ["Research Papers", "Tech Blogs", "Open Source Code"]
 };
 ```
 
 ---
 
-## 🎮 When I'm Not Coding...
+## 🎮 Beyond Coding
 
-🎮 Gaming (Strategy & RPGs)  
-🤖 Exploring Robotics & IoT  
-📚 Reading Tech Articles & Research Papers  
-🎵 Listening to Music while coding  
-🏏 Cricket enthusiast
+- 🎮 Gaming enthusiast (Strategy & RPG games)
+- 🤖 Robotics & IoT explorer
+- 📚 Tech articles and research papers reader
+- 🎵 Music lover (perfect coding companion)
+- 🏏 Cricket fan
 
 ---
 
-## 📫 Connect with Me
+## 📫 Let's Connect
 
 <div align="center">
   
