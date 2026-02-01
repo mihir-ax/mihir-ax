@@ -86,22 +86,22 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://git-hub-stats-red.vercel.app/api?username=mahi-ax&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://git-hub-stats-red.vercel.app/api?username=mihir-ax&show_icons=true&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://git-hub-stats-red.vercel.app/api/streak-stats?username=mahi-ax&theme=radical&hide_border=true" />
+  <img src="https://git-hub-stats-red.vercel.app/api/streak-stats?username=mihir-ax&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://git-hub-stats-red.vercel.app/api/top-langs/?username=mahi-ax&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://git-hub-stats-red.vercel.app/api/top-langs/?username=mihir-ax&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
 
 ## 📫 Connect With Me
 
-- 💌 GitHub: **@mahi-ax**
+- 💌 GitHub: **@mihir-ax**
 - 🌱 Always open to learning, collaboration & growth
 
 ---
