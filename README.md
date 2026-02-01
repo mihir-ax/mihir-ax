@@ -14,12 +14,11 @@
 class MiHiR_SEN:
     def __init__(self):
         self.name = "MiHiR SEN"
-        self.username = "mihir-ax"
         self.role = "CS Engineering Student"
         self.future_goal = "High-Level AI Engineer 🤖"
         self.passions = ["Coding", "AI", "Gaming", "Robotics"]
         self.current_focus = ["DSA", "Python", "Web Dev", "AI/ML"]
-        self.location = "Jaipur, Rajasthan 🇮🇳"
+        self.location = "Jaipur, Rajasthan, India 🇮🇳"
         
     def say_hi(self):
         print("Thanks for dropping by! Let's build the future together 🚀")
@@ -28,13 +27,12 @@ me = MiHiR_SEN()
 me.say_hi()
 ```
 
-- 🎓 **Computer Science Engineering Student**
-- 💻 **Passionate Programmer** | Building skills in AI, Web Dev & Automation
-- 🎮 **Gamer at Heart** | Love exploring virtual worlds
-- 🤖 **Robotics Enthusiast** | Fascinated by Future Tech
-- 🌱 **Currently Learning**: DSA, Python, Web Development & AI/ML
-- 🔥 **Mission**: Become a top-tier Software/AI Engineer
-- 📍 **Based in**: Jaipur, Rajasthan, India
+🎓 **Computer Science Engineering Student**  
+💻 **Passionate Programmer** | Building skills in AI, Web Dev & Automation  
+🎮 **Gamer at Heart** | Love exploring virtual worlds  
+🤖 **Robotics Enthusiast** | Fascinated by Future Tech  
+🌱 **Currently Learning**: DSA, Python, Web Development & AI  
+🔥 **Mission**: Become a top-tier Software/AI Engineer
 
 ---
 
@@ -74,8 +72,8 @@ me.say_hi()
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://git-hub-stats-red.vercel.app/api?username=mihir-ax&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&rank_icon=github" alt="MiHiR's GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihir-ax&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&langs_count=8" alt="Top Languages" height="180"/>
+  <img src="https://git-hub-stats-red.vercel.app/api?username=mihir-ax&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_bold=true&rank_icon=github&include_all_commits=true" alt="MiHiR's GitHub Stats" height="195"/>
+  <img src="https://git-hub-stats-red.vercel.app/api/top-langs/?username=mihir-ax&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&langs_count=8&card_width=320" alt="Top Languages" height="195"/>
 </div>
 
 <div align="center">
@@ -83,7 +81,7 @@ me.say_hi()
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mihir-ax&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A855F7&line=A855F7&point=FF6B6B" alt="Contribution Graph" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mihir-ax&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A855F7&line=A855F7&point=FF6B6B" alt="Contribution Graph" width="95%"/>
 </div>
 
 ---
@@ -96,48 +94,34 @@ me.say_hi()
 
 ---
 
+## 📈 Detailed Contribution Stats
+
+<div align="center">
+  <img src="https://git-hub-stats-red.vercel.app/api?username=mihir-ax&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_bold=true&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&card_width=495" alt="Detailed GitHub Stats"/>
+</div>
+
+---
+
 ## 🎯 Current Focus
 
 ```javascript
 const currentGoals = {
-    learning: ["Data Structures & Algorithms", "Machine Learning", "Web3", "System Design"],
+    learning: ["Data Structures & Algorithms", "Machine Learning", "Web3"],
     building: ["AI Projects", "Full-Stack Applications", "Automation Tools"],
-    reading: ["Deep Learning Papers", "Tech Blogs", "AI Research"],
-    exploring: ["Robotics", "IoT", "Cloud Computing", "Blockchain"]
+    reading: ["Deep Learning Papers", "System Design", "Tech Blogs"],
+    exploring: ["Robotics", "IoT", "Cloud Computing"]
 };
 ```
 
 ---
 
-## 🔥 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/mihir-ax/REPO_NAME_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mihir-ax&repo=REPO_NAME_1&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=FF6B6B" />
-  </a>
-  <a href="https://github.com/mihir-ax/REPO_NAME_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mihir-ax&repo=REPO_NAME_2&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=FF6B6B" />
-  </a>
-</div>
-
----
-
 ## 🎮 When I'm Not Coding...
 
-- 🎮 Gaming (Strategy & RPGs)
-- 🤖 Exploring Robotics & IoT
-- 📚 Reading Tech Articles & Research Papers
-- 🎵 Listening to Music while coding
-- 🏏 Cricket enthusiast
-- 🌟 Contributing to Open Source
-
----
-
-## 📈 Contribution Stats
-
-<div align="center">
-  <img src="https://git-hub-stats-red.vercel.app/api?username=mihir-ax&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&include_all_commits=true&count_private=true&custom_title=MiHiR's%20GitHub%20Stats" alt="Detailed Stats" />
-</div>
+🎮 Gaming (Strategy & RPGs)  
+🤖 Exploring Robotics & IoT  
+📚 Reading Tech Articles & Research Papers  
+🎵 Listening to Music while coding  
+🏏 Cricket enthusiast
 
 ---
 
@@ -149,7 +133,6 @@ const currentGoals = {
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](YOUR_TWITTER)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](YOUR_INSTAGRAM)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](YOUR_PORTFOLIO)
 
 </div>
 
@@ -167,10 +150,4 @@ const currentGoals = {
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!%20⭐%20Star%20some%20repos%20if%20you%20like%20them!&fontSize=20&fontColor=fff&animation=twinkling&fontAlignY=75" />
-</div>
-
-<div align="center">
-  
-### Show some ❤️ by starring some of the repositories!
-
 </div>
