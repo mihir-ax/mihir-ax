@@ -75,23 +75,6 @@ me.say_hi()
   <img src="https://git-hub-stats-red.vercel.app/api?username=mihir-ax&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_bold=true&rank_icon=github&include_all_commits=true" alt="MiHiR's GitHub Stats" height="195"/>
   <img src="https://git-hub-stats-red.vercel.app/api/top-langs/?username=mihir-ax&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&langs_count=8&card_width=320" alt="Top Languages" height="195"/>
 </div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mihir-ax&theme=radical&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=FF6B6B&currStreakLabel=A855F7" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mihir-ax&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A855F7&line=A855F7&point=FF6B6B" alt="Contribution Graph" width="95%"/>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mihir-ax&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
-</div>
-
 ---
 
 ## 🎯 Current Focus
@@ -104,8 +87,6 @@ const currentGoals = {
     reading: ["Research Papers", "Tech Blogs", "Open Source Code"]
 };
 ```
-
----
 
 ## 🎮 Beyond Coding
 
