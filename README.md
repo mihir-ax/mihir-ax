@@ -128,7 +128,7 @@ const currentGoals = {
 </div>
 
 ---
-![Mahi's GitHub stats](https://git-hub-stats-red.vercel.app/api?username=mahi-ax&show_icons=true&theme=radical&hide_border=true)
+![Mahi's GitHub stats](https://git-hub-stats-red.vercel.app/api?username=mihir-ax&show_icons=true&theme=radical&hide_border=true)
 
 ## 💭 Random Dev Quote
 
