@@ -8,34 +8,6 @@
 
 ---
 
-## 🚀 About Me
-
-```python
-class MiHiR_SEN:
-    def __init__(self):
-        self.name = "MiHiR SEN"
-        self.role = "CS Engineering Student"
-        self.location = "Jaipur, Rajasthan, India 🇮🇳"
-        self.future_goal = "High-Level AI Engineer 🤖"
-        self.passions = ["Coding", "AI/ML", "Robotics", "Gaming"]
-        self.current_focus = ["DSA", "Python", "Web Development", "AI/ML"]
-        
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build the future together 🚀")
-
-me = MiHiR_SEN()
-me.say_hi()
-```
-
-🎓 **Computer Science Engineering Student** passionate about building the future with AI  
-💻 **Developer** | Crafting solutions in AI, Web Dev & Automation  
-🤖 **AI/ML Enthusiast** | Fascinated by Machine Learning & Robotics  
-🎮 **Gamer** | Love exploring virtual worlds  
-🌱 **Currently Learning**: Data Structures & Algorithms, Machine Learning, Full-Stack Development  
-🔥 **Mission**: Become a top-tier AI Engineer shaping tomorrow's technology
-
----
-
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
@@ -66,35 +38,6 @@ me.say_hi()
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://git-hub-stats-red.vercel.app/api?username=mihir-ax&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_bold=true&rank_icon=github&include_all_commits=true" alt="MiHiR's GitHub Stats" height="195"/>
-  <img src="https://git-hub-stats-red.vercel.app/api/top-langs/?username=mihir-ax&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&langs_count=8&card_width=320" alt="Top Languages" height="195"/>
-</div>
----
-
-## 🎯 Current Focus
-
-```javascript
-const currentGoals = {
-    learning: ["Data Structures & Algorithms", "Deep Learning", "System Design"],
-    building: ["AI/ML Projects", "Full-Stack Web Apps", "Automation Tools"],
-    exploring: ["Robotics & IoT", "Cloud Computing", "Web3 Technologies"],
-    reading: ["Research Papers", "Tech Blogs", "Open Source Code"]
-};
-```
-
-## 🎮 Beyond Coding
-
-- 🎮 Gaming enthusiast (Strategy & RPG games)
-- 🤖 Robotics & IoT explorer
-- 📚 Tech articles and research papers reader
-- 🎵 Music lover (perfect coding companion)
-- 🏏 Cricket fan
 
 ---
 
